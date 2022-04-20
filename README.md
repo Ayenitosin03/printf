@@ -21,5 +21,4 @@ Files | Content
 Manual: man_3_printf
 ## Contributors
 - Oluwatosin Ayeni
-- Olalekan Jimoh
 ![GitHub contributors](https://img.shields.io/github/contributors/Ayenitosin03/printf)
